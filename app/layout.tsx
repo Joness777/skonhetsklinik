@@ -15,7 +15,7 @@ const openSans = Open_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Skönhetskliniken - Få Din Perfekta Glow",
+  title: "Skönhetsklinik - Få Din Perfekta Glow",
   description: "Lyxig skönhetsklinik med professionella behandlingar för ansikte och kropp. Boka din tid idag!",
 };
 
